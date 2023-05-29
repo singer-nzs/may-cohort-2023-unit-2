@@ -115,4 +115,3 @@ console.log(age);
             - Console Log Age.
         
 */
-

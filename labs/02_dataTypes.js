@@ -10,7 +10,7 @@ let empty = null;
 console.log(empty);
 
 //! Undefined
-let undef = undefined; // instead of assigning our undef variable a datatype of undefined, we can simply just declare the variable.
+let undef = undefined; // instead of assigning our undef variable as a datatype of undefined, we can simply just declare the variable.
 console.log(undef);
 
 //! Numbers
